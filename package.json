@@ -7,9 +7,9 @@
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production",
     "test": "jest",
-    "change": "beachball change",
-    "check": "beachball check",
-    "bump": "beachball bump",
+    "change": "beachball change -b develop",
+    "check": "beachball check -b develop",
+    "bump": "beachball bump -b develop",
     "beachball:publish": "beachball publish"
   },
   "repository": {
