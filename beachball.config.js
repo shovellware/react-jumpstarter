@@ -1,3 +1,4 @@
 module.exports = {
-  branch: "origin/develop"
+  branch: "origin/develop",
+  push: false
 }
