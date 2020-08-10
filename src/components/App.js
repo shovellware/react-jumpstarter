@@ -6,6 +6,7 @@ class App extends Component {
       <div className="content">
         <h1>My React App</h1>
         <p>Example content</p>
+        <p>I'll be a minor change</p>
       </div>
     )
   }

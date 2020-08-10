@@ -1,8 +1,17 @@
 # Change Log - react-jumpstarter
 
-This log was last generated on Mon, 10 Aug 2020 22:43:29 GMT and should not be manually modified.
+This log was last generated on Mon, 10 Aug 2020 23:30:55 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.3
+
+Mon, 10 Aug 2020 23:30:55 GMT
+
+### Patches
+
+- bb config (shovelware@protonmail.ch)
+- testing beachball bump (shovelware@protonmail.ch)
 
 ## 1.0.2
 
