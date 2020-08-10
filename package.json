@@ -1,6 +1,6 @@
 {
   "name": "react-jumpstarter",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shovellware/webpack-devserver-react.git"
+    "url": "git+https://github.com/shovellware/react-jumpstarter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shovellware/webpack-devserver-react/issues"
+    "url": "https://github.com/shovellware/react-jumpstarter/issues"
   },
-  "homepage": "https://github.com/shovellware/webpack-devserver-react#readme",
+  "homepage": "https://github.com/shovellware/react-jumpstarter#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
