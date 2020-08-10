@@ -1,6 +1,6 @@
 {
   "name": "react-jumpstarter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "test": "jest",
     "change": "beachball change",
     "check": "beachball check",
+    "bump": "beachball bump",
     "beachball:publish": "beachball publish"
   },
   "repository": {
