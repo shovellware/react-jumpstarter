@@ -2,6 +2,21 @@
   "name": "react-jumpstarter",
   "entries": [
     {
+      "date": "Mon, 10 Aug 2020 22:43:29 GMT",
+      "tag": "react-jumpstarter_v1.0.2",
+      "version": "1.0.2",
+      "comments": {
+        "patch": [
+          {
+            "comment": "subtraction func",
+            "author": "shovelware@protonmail.ch",
+            "commit": "29583b25b631b3304b2ff4f01ad753462df7adae",
+            "package": "react-jumpstarter"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 10 Aug 2020 22:30:53 GMT",
       "tag": "react-jumpstarter_v1.0.1",
       "version": "1.0.1",
