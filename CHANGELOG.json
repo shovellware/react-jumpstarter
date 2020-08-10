@@ -1,0 +1,20 @@
+{
+  "name": "react-jumpstarter",
+  "entries": [
+    {
+      "date": "Mon, 10 Aug 2020 18:27:17 GMT",
+      "tag": "react-jumpstarter_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "none": [
+          {
+            "comment": "Change files",
+            "author": "shovelware@protonmail.ch",
+            "commit": "dfbbcd83a368334bd6b73d2e93d86774f49ae731",
+            "package": "react-jumpstarter"
+          }
+        ]
+      }
+    }
+  ]
+}
