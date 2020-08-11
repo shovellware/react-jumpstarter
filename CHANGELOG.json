@@ -2,6 +2,21 @@
   "name": "react-jumpstarter",
   "entries": [
     {
+      "date": "Tue, 11 Aug 2020 00:10:41 GMT",
+      "tag": "react-jumpstarter_v2.0.0",
+      "version": "2.0.0",
+      "comments": {
+        "major": [
+          {
+            "comment": "big improvement",
+            "author": "shovelware@protonmail.ch",
+            "commit": "9ba0c31b965fb4d490b5a556600c1e321713ba5b",
+            "package": "react-jumpstarter"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 10 Aug 2020 23:30:55 GMT",
       "tag": "react-jumpstarter_v1.0.3",
       "version": "1.0.3",

@@ -1,8 +1,16 @@
 # Change Log - react-jumpstarter
 
-This log was last generated on Mon, 10 Aug 2020 23:30:55 GMT and should not be manually modified.
+This log was last generated on Tue, 11 Aug 2020 00:10:41 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.0.0
+
+Tue, 11 Aug 2020 00:10:41 GMT
+
+### Major changes
+
+- big improvement (shovelware@protonmail.ch)
 
 ## 1.0.3
 
